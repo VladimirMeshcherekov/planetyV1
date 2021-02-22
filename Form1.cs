@@ -87,7 +87,7 @@ namespace WindowsFormsApp1
 
 
         }
-
+        /*/*/
 
         void Raschet()
         {
